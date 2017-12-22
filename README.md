@@ -12,8 +12,6 @@ Note:
 This will not work with BattlEye running, it either needs a bypass or can only be used if BattlEye is terminated because BE will just strip the handle and you won't be able to get a base address, or read/write memory.
 ```
 
-Props to Jared and his external source, this is basically just what he released but it actually works (opens a handle and I added a menu and stuff for the different features)
-
 How to compile:
 
 * Download and install the DirectX June 2010 SDK and add the includes and libs (x64) to the project
